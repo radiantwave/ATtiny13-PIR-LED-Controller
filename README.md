@@ -1,5 +1,5 @@
 ## ATtiny13 Pinout
-![6L6rbSO](https://github.com/user-attachments/assets/04b4f349-286e-41b5-b8b3-a2353c030287)
+![6L6rbSO](https://github.com/user-attachments/assets/795ebb8f-4e87-4e0c-91c9-1de38688300c)
 
     Pin 1: NC
     Pin 2 (PB3 / ADC3): Digital input for the brightness adjustment button.
